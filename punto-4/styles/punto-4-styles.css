@@ -1,0 +1,16 @@
+.h1__azul{
+    margin: 0px;
+    color: #0833a2;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 70px;
+    letter-spacing: -0.64px;
+}
+.h1__rojo{
+    margin: 0px;
+    color: #FF0000;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 70px;
+    letter-spacing: -0.64px;
+}

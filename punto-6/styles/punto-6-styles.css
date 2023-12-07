@@ -1,0 +1,11 @@
+.links{
+    line-height: 50px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.link-yellow{
+    color: #FFFF00;
+}
+.link-violet{
+    color: #8A2BE2;
+}

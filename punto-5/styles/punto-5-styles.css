@@ -1,0 +1,27 @@
+.sub{
+    color: #32CD32;
+    text-decoration: underline;
+}
+.red{
+    color: red;
+    font-weight: bold;
+}
+.doublesub{
+    text-decoration: overline underline;
+}
+.size{
+    font-size: 30px;
+    font-weight: bold;
+}
+.blue{
+    color: blue;
+    font-weight: bold;
+}
+.red2{
+    color: red;
+    font-weight: bold;
+    text-decoration: underline;
+}
+p{
+    line-height: 30px;
+}

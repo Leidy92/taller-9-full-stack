@@ -1,0 +1,17 @@
+.tabla{
+    border: 1px solid black;
+    border-style: dotted;
+    border-collapse: collapse;
+    background: yellow;
+}
+.tabla th{
+    border: 1px solid black;
+    border-style: dotted;
+    color: red;
+    font-style: italic;
+    font-family: 'Jost';
+}
+.tabla td{
+    border:1px solid black;
+    border-style: dotted;
+}
